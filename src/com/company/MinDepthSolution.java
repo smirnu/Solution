@@ -11,5 +11,6 @@ class MinDepthSolution {
         if (x == 0) return true;
 
         List<Integer> allNumbers = new ArrayList<>();
+        return true;
     }
 }
